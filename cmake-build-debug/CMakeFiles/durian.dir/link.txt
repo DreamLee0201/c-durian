@@ -1,0 +1,3 @@
+D:\softwares4work\c\CLion-2020.2.4.win\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\durian.dir/objects.a
+D:\softwares4work\c\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\ar.exe cr CMakeFiles\durian.dir/objects.a @CMakeFiles\durian.dir\objects1.rsp
+D:\softwares4work\c\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\durian.dir/objects.a -Wl,--no-whole-archive  -o durian.exe -Wl,--out-implib,libdurian.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\durian.dir\linklibs.rsp
